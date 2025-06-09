@@ -1,0 +1,14 @@
+C:\Users\grautecnico\meuprojeto\bin\Debug\net8.0\meuprojeto.exe
+C:\Users\grautecnico\meuprojeto\bin\Debug\net8.0\meuprojeto.deps.json
+C:\Users\grautecnico\meuprojeto\bin\Debug\net8.0\meuprojeto.runtimeconfig.json
+C:\Users\grautecnico\meuprojeto\bin\Debug\net8.0\meuprojeto.dll
+C:\Users\grautecnico\meuprojeto\bin\Debug\net8.0\meuprojeto.pdb
+C:\Users\grautecnico\meuprojeto\obj\Debug\net8.0\meuprojeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grautecnico\meuprojeto\obj\Debug\net8.0\meuprojeto.AssemblyInfoInputs.cache
+C:\Users\grautecnico\meuprojeto\obj\Debug\net8.0\meuprojeto.AssemblyInfo.cs
+C:\Users\grautecnico\meuprojeto\obj\Debug\net8.0\meuprojeto.csproj.CoreCompileInputs.cache
+C:\Users\grautecnico\meuprojeto\obj\Debug\net8.0\meuprojeto.dll
+C:\Users\grautecnico\meuprojeto\obj\Debug\net8.0\refint\meuprojeto.dll
+C:\Users\grautecnico\meuprojeto\obj\Debug\net8.0\meuprojeto.pdb
+C:\Users\grautecnico\meuprojeto\obj\Debug\net8.0\meuprojeto.genruntimeconfig.cache
+C:\Users\grautecnico\meuprojeto\obj\Debug\net8.0\ref\meuprojeto.dll
